@@ -9,6 +9,11 @@ header {
 
 nav {
     background-color: aqua;
+    width: 80%
+}
+
+nav img {
+    width : 10%
 }
 
 main {
