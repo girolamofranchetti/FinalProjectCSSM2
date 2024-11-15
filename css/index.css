@@ -8,6 +8,7 @@ header {
 }
 
 nav {
+    display : inline-block;
     background-color: aqua;
     width: 80%
 }
