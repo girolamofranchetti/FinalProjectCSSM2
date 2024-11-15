@@ -20,10 +20,10 @@ footer {
     background-color: yellowgreen;
 }
 
-li {
+/* li {
     display: flexbox;
     width: 130px;
-}
+} */
 
 h1 {
     text-align: right;
