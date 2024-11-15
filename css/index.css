@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+header {
+    background-color: azure;
+}
+
+nav {
+    background-color: aqua;
+}
+
+main {
+    background-color: aliceblue;
+    font-size: small;
+}
+
+footer {
+    background-color: cornflowerblue;
+}
+
+li {
+    display: block;
+    width: 130px;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+p {
+    line-height: 1.2;
+}

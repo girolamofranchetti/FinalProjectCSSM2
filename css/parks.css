@@ -1,1 +1,36 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
 
+header {
+    background-color: green;
+}
+
+nav {
+    background-color: rgb(30, 210, 75);
+}
+
+main {
+    background-color: rgb(175, 231, 44);
+    font-size: medium;
+}
+
+footer {
+    background-color: yellowgreen;
+}
+
+li {
+    display: flexbox;
+    width: 130px;
+}
+
+h1 {
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(175, 22, 73);
+}
+
+p {
+    line-height: 1.4;
+}

@@ -1,0 +1,36 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+header {
+    background-color: coral;
+}
+
+nav {
+    background-color: chocolate;
+}
+
+main {
+    background-color: blue;
+    font-size: medium;
+}
+
+footer {
+    background-color: yellowgreen;
+}
+
+li {
+    display: list-item;
+    width: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+}
+
+p {
+    line-height: 1.6;
+}
