@@ -41,3 +41,19 @@ h1 {
 p {
     line-height: 1.6;
 }
+
+.grid {
+    display : grid;
+    gris-templlate-columns : 40% 40%;
+    justify-content : space-between;
+    align-items : center;
+    row-gapp : 20px;
+    }
+.grid img {
+    width : 100%
+    }
+.flex {
+    display : flex;
+    flex-wrap : wrap;
+    justify-content: space-around;
+}
